@@ -1,5 +1,5 @@
-1.在这个目录运行cmd
-2.activate Selenium 
+1.Run cmd here 
+2.activate Anacoda env: Selenium 
 3.
 pyinstaller [主文件] -p [其他文件1] -p [其他文件2] --hidden-import [自建模块1] --hidden-import [自建模块2] -i [图标]
 
@@ -7,12 +7,12 @@ pyinstaller -F test.py
 
 pyinstaller -F Neko0.9.py -p Email_Log.py -i icon.ico
 
-0.9版本
-主程序
+Version 0.9
+Main
 pyinstaller -F Neko0.9.2.py -p Neko_add.py -i icon.ico
-辅助管理程序Neko_Mouse
+ManagerNeko_Mouse
 pyinstaller -F QtUI.py -p Neko_add.py -p Neko_Mouse_0.py -i icon.ico 
 
-1.0版本
+Version 1.0
 pyinstaller -F Neko1.0.py -p Neko_add.py -i icon.ico
 pyinstaller -F Neko_Mouse1.0.py -p Neko_add.py -p Neko_Mouse_0.py -i icon.ico 
