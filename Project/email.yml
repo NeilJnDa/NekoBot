@@ -1,0 +1,8 @@
+enable: false
+path: F:/Selenium/Project/dist/Neko0.9.2.exe
+sender_mail: 1091272648@qq.com
+sender_pass: kwrcwvbkrdbwbaei
+from: Notification<1091272648@qq.com>
+subject: 信息自动填报每日通知
+content1: <h1>中午好~</h1>
+content2: "<p>如果自动填报失败，那可能需要自己去开系统填一下~ 管理员可能在睡觉zzzzZZZZ</p> <p> OuO </p>\n"

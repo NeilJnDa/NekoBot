@@ -1,0 +1,8 @@
+enable: true
+path: /home/Neko/Neko1.0.py
+sender_mail: 1091272648@qq.com
+sender_pass: kwrcwvbkrdbwbaei
+from: Notification<1091272648@qq.com>
+subject: 信息自动填报每日通知
+content1: <h2>早啊！</h2>
+content2: "<p>马上就要拿毕业证了，日子过得好快。不管怎么说，还是希望前程似锦，世界和平吧~</p>"
