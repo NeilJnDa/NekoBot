@@ -6,4 +6,4 @@ It is aimed to fill exact duplicate information of the Daily Health Report of So
 
 The version for Linux is also developed and tested. It was deployed to a Linux server after April 2020. 
 
-However now it is out of date to use.
+Now it is out of date to use.
